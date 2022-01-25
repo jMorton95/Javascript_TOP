@@ -1,4 +1,6 @@
-const max = 57;
-let actual = max - 13;
-let percentage = actual/max;
-console.log(percentage);
+let max = 200;
+max = max + 100;
+console.log(max);
+let division = 50;
+max = max / division;
+console.log(max);
